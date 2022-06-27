@@ -1,5 +1,6 @@
 - Hi, I’m Conor White!
 - 👀 I’m interested in becoming a software developer
+- 🎓 I'm a Trainee Software Developer for QA 
 - 🌱 I’m currently learning CS50X introduction to computer science
 - 📫 How to reach me : conorwhite667@gmail.com
 
